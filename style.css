@@ -137,9 +137,9 @@ body {
 .btn {
     background-color: var(--dark-cyan);
     color: white;
-    margin-top: 28px;
+    margin-top: 10px;
     border: none;
-    height: 60px;
+    height: 45px;
     display: block;
     width: 100%;
     border-radius: 10px;
