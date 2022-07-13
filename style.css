@@ -3,6 +3,8 @@
 .attribution { font-size: 11px; text-align: center; display: block;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
+/* Refresher and Project Setup */
+
 * {
     margin: 0px;
     padding: 0px;
@@ -30,15 +32,15 @@ body {
     justify-content: center;
 }
 
+/* Container */
+
 .container {
     display: flex;
     height: 58vh;
     width: 40vw;
 }
 
-
-
-
+/* Image */
 
 .img-container {
     flex: 1;
@@ -72,7 +74,7 @@ body {
     }
 }
 
-
+/* Text */
 
 .text-container {
     flex: 1;
